@@ -14,6 +14,7 @@ No more features are planned for the 2.x release series.
 - You can get the latest official release on [PFML's website](https://maksiurino.github.io/pfml-dev/download.php).
 - You can also get the source code of the current development version from the [Git repository](https://github.com/maksiurino/pfml-dev).
 
-## External libraries used by SFML
+## External libraries used by PFML
 
 - [Pygame](https://github.com/pygame/pygame)
+
